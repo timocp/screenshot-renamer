@@ -5,3 +5,4 @@ authors = ["Tim Peters <zomg.tim@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+notify = "4.0.0"
